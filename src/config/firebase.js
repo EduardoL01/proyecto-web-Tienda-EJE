@@ -4,13 +4,12 @@ import "firebase/compat/auth"
 
 // RECUERDEN COLOCAR SU CONFIGURACIÓN EN LA SIGUIENTE CONSTANTE
 const firebaseConfig = {
-  apiKey: "AIzaSyDpgGdmtZ5H7aFEbRNxDAQqxZ2YCWA9fzM",
-  authDomain: "proyecto-web-c5bff.firebaseapp.com",
-  databaseURL: "https://proyecto-web-c5bff-default-rtdb.firebaseio.com",
-  projectId: "proyecto-web-c5bff",
-  storageBucket: "proyecto-web-c5bff.appspot.com",
-  messagingSenderId: "1054062661016",
-  appId: "1:1054062661016:web:3858fcb1e4ca5ece342fed"
+  apiKey: "AIzaSyB7NcuxE0E9AiIeHB5CePO4F9zPmfie_aA",
+  authDomain: "proyecto-web-214ff.firebaseapp.com",
+  projectId: "proyecto-web-214ff",
+  storageBucket: "proyecto-web-214ff.appspot.com",
+  messagingSenderId: "670715114898",
+  appId: "1:670715114898:web:f70e11d5d0372d302dfd4b"
 };
 
 firebase.initializeApp(firebaseConfig)
