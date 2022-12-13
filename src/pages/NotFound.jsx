@@ -1,7 +1,7 @@
 function NotFound() {
     return ( 
         <div>
-            <center><h1>Bienvenido a mi pagina web</h1></center>
+            <center><h1>no se encuentra disponible la pagina</h1></center>
         </div>
      );
 }
